@@ -1,0 +1,6 @@
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/hitechvivek/CIT_PHOTO_CLUB.git
+git push -u origin master
